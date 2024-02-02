@@ -1,0 +1,6 @@
+ mmb <rotate view>
+shift mmb <move>
+g [axi] <grab>
+s <scale>
+shift a <add> 
+x <delete>
